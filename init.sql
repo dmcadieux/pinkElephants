@@ -13,5 +13,3 @@ VALUES
 	('Flippity Floppity', 'my room', 68.9, '1999-12-31'),
 	('Reginald Butterworth', 'onlyFans', 1.8, '2000-11-11')
 ;
-
-SELECT * FROM snowflakes;
